@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/03_scheduler_and_stack.dir/03_scheduler_and_stack.cpp.o -o 03_scheduler_and_stack   -L/home/libgo/local/lib  -Wl,-rpath,/home/libgo/local/lib -llibgo -lpthread -ldl 

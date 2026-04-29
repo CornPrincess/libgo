@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/06_mutex_and_rwmutex.dir/06_mutex_and_rwmutex.cpp.o -o 06_mutex_and_rwmutex   -L/home/libgo/local/lib  -Wl,-rpath,/home/libgo/local/lib -llibgo -lpthread -ldl 

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/08_multithread_scheduler.dir/08_multithread_scheduler.cpp.o -o 08_multithread_scheduler   -L/home/libgo/local/lib  -Wl,-rpath,/home/libgo/local/lib -llibgo -lpthread -ldl 

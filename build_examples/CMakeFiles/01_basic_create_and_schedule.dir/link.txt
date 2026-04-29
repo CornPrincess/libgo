@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/01_basic_create_and_schedule.dir/01_basic_create_and_schedule.cpp.o -o 01_basic_create_and_schedule   -L/home/libgo/local/lib  -Wl,-rpath,/home/libgo/local/lib -llibgo -lpthread -ldl 

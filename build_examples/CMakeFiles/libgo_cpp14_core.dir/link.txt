@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/libgo_cpp14_core.dir/libgo_cpp14_core.cpp.o -o libgo_cpp14_core   -L/home/libgo/local/lib  -Wl,-rpath,/home/libgo/local/lib -llibgo -lpthread -ldl 

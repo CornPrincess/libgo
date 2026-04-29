@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/04_channel_basic.dir/04_channel_basic.cpp.o -o 04_channel_basic   -L/home/libgo/local/lib  -Wl,-rpath,/home/libgo/local/lib -llibgo -lpthread -ldl 

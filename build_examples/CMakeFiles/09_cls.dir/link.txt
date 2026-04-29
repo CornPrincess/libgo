@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/09_cls.dir/09_cls.cpp.o -o 09_cls   -L/home/libgo/local/lib  -Wl,-rpath,/home/libgo/local/lib -llibgo -lpthread -ldl 
